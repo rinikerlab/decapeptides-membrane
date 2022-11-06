@@ -1,0 +1,196 @@
+TITLE FRAME_958518.pdb
+REMARK   1  TIMESTEP	            292500     92585.000000000
+MODEL
+CRYST1   35.633   35.633   35.633  90.00  90.00  90.00 P 1          1
+ATOM      1  N   LEU A   1      -4.443  -3.762   2.868  1.00  0.00
+ATOM      2  H   LEU A   1      -3.850  -3.763   3.674  1.00  0.00
+ATOM      3  CA  LEU A   1      -5.131  -2.479   2.663  1.00  0.00
+ATOM      4  CB  LEU A   1      -6.273  -2.287   3.663  1.00  0.00
+ATOM      5  CG  LEU A   1      -7.546  -3.061   3.316  1.00  0.00
+ATOM      6  CD1 LEU A   1      -8.560  -3.008   4.461  1.00  0.00
+ATOM      7  CD2 LEU A   1      -8.338  -2.473   2.146  1.00  0.00
+ATOM      8  C   LEU A   1      -4.157  -1.340   2.971  1.00  0.00
+ATOM      9  O   LEU A   1      -3.608  -1.305   4.071  1.00  0.00
+ATOM     10  N   MEALA   2      -3.920  -0.398   2.062  1.00  0.00
+ATOM     11  CN  MEALA   2      -4.511  -0.493   0.719  1.00  0.00
+ATOM     12  CA  MEALA   2      -2.973   0.699   2.307  1.00  0.00
+ATOM     13  CB  MEALA   2      -1.636   0.520   1.585  1.00  0.00
+ATOM     14  C   MEALA   2      -3.706   2.024   2.091  1.00  0.00
+ATOM     15  O   MEALA   2      -3.367   2.822   1.218  1.00  0.00
+ATOM     16  N   LEU A   3      -4.378   2.460   3.153  1.00  0.00
+ATOM     17  H   LEU A   3      -4.201   2.179   4.097  1.00  0.00
+ATOM     18  CA  LEU A   3      -5.280   3.620   3.153  1.00  0.00
+ATOM     19  CB  LEU A   3      -6.466   3.582   4.119  1.00  0.00
+ATOM     20  CG  LEU A   3      -7.803   2.995   3.664  1.00  0.00
+ATOM     21  CD1 LEU A   3      -8.302   3.685   2.393  1.00  0.00
+ATOM     22  CD2 LEU A   3      -7.715   1.485   3.435  1.00  0.00
+ATOM     23  C   LEU A   3      -4.585   4.929   3.535  1.00  0.00
+ATOM     24  O   LEU A   3      -4.004   4.989   4.618  1.00  0.00
+ATOM     25  N   MDALA   4      -4.597   5.989   2.731  1.00  0.00
+ATOM     26  CN  MDALA   4      -4.822   5.663   1.315  1.00  0.00
+ATOM     27  CA  MDALA   4      -4.022   7.272   3.159  1.00  0.00
+ATOM     28  CB  MDALA   4      -4.040   8.303   2.028  1.00  0.00
+ATOM     29  C   MDALA   4      -2.536   7.071   3.467  1.00  0.00
+ATOM     30  O   MDALA   4      -1.815   6.410   2.722  1.00  0.00
+ATOM     31  N   MEPHA   5      -2.165   7.347   4.714  1.00  0.00
+ATOM     32  CN  MEPHA   5      -3.106   7.894   5.703  1.00  0.00
+ATOM     33  CA  MEPHA   5      -0.806   6.998   5.152  1.00  0.00
+ATOM     34  CB  MEPHA   5      -0.263   8.123   6.035  1.00  0.00
+ATOM     35  CG  MEPHA   5       1.210   8.442   5.773  1.00  0.00
+ATOM     36  CD1 MEPHA   5       1.547   8.900   4.504  1.00  0.00
+ATOM     37  HD1 MEPHA   5       0.762   8.891   3.747  1.00  0.00
+ATOM     38  CD2 MEPHA   5       2.193   8.260   6.739  1.00  0.00
+ATOM     39  HD2 MEPHA   5       1.901   8.153   7.783  1.00  0.00
+ATOM     40  CE1 MEPHA   5       2.878   9.160   4.202  1.00  0.00
+ATOM     41  HE1 MEPHA   5       3.126   9.679   3.276  1.00  0.00
+ATOM     42  CE2 MEPHA   5       3.536   8.363   6.397  1.00  0.00
+ATOM     43  HE2 MEPHA   5       4.272   7.804   6.975  1.00  0.00
+ATOM     44  CZ  MEPHA   5       3.858   8.885   5.149  1.00  0.00
+ATOM     45  HZ  MEPHA   5       4.902   9.107   4.929  1.00  0.00
+ATOM     46  C   MEPHA   5      -0.640   5.613   5.783  1.00  0.00
+ATOM     47  O   MEPHA   5       0.517   5.204   5.864  1.00  0.00
+ATOM     48  N   LEU A   6      -1.654   4.832   6.143  1.00  0.00
+ATOM     49  H   LEU A   6      -2.547   4.785   5.695  1.00  0.00
+ATOM     50  CA  LEU A   6      -1.439   3.676   7.026  1.00  0.00
+ATOM     51  CB  LEU A   6      -2.430   3.786   8.187  1.00  0.00
+ATOM     52  CG  LEU A   6      -2.324   5.137   8.897  1.00  0.00
+ATOM     53  CD1 LEU A   6      -3.542   5.315   9.805  1.00  0.00
+ATOM     54  CD2 LEU A   6      -1.039   5.386   9.688  1.00  0.00
+ATOM     55  C   LEU A   6      -1.573   2.337   6.298  1.00  0.00
+ATOM     56  O   LEU A   6      -2.642   1.978   5.807  1.00  0.00
+ATOM     57  N   MEALA   7      -0.647   1.408   6.521  1.00  0.00
+ATOM     58  CN  MEALA   7       0.280   1.450   7.661  1.00  0.00
+ATOM     59  CA  MEALA   7      -0.820   0.099   5.875  1.00  0.00
+ATOM     60  CB  MEALA   7       0.395  -0.088   4.964  1.00  0.00
+ATOM     61  C   MEALA   7      -1.124  -1.092   6.787  1.00  0.00
+ATOM     62  O   MEALA   7      -0.162  -1.601   7.359  1.00  0.00
+ATOM     63  N   LEU A   8      -2.230  -1.789   6.543  1.00  0.00
+ATOM     64  H   LEU A   8      -2.746  -1.696   5.692  1.00  0.00
+ATOM     65  CA  LEU A   8      -2.534  -2.967   7.368  1.00  0.00
+ATOM     66  CB  LEU A   8      -3.627  -2.749   8.416  1.00  0.00
+ATOM     67  CG  LEU A   8      -3.187  -2.495   9.860  1.00  0.00
+ATOM     68  CD1 LEU A   8      -4.315  -1.888  10.696  1.00  0.00
+ATOM     69  CD2 LEU A   8      -2.655  -3.786  10.486  1.00  0.00
+ATOM     70  C   LEU A   8      -2.957  -4.130   6.468  1.00  0.00
+ATOM     71  O   LEU A   8      -3.392  -3.884   5.344  1.00  0.00
+ATOM     72  N   MDALA   9      -2.639  -5.357   6.871  1.00  0.00
+ATOM     73  CN  MDALA   9      -1.294  -5.519   7.442  1.00  0.00
+ATOM     74  CA  MDALA   9      -3.360  -6.515   6.324  1.00  0.00
+ATOM     75  CB  MDALA   9      -2.946  -7.866   6.913  1.00  0.00
+ATOM     76  C   MDALA   9      -3.207  -6.577   4.803  1.00  0.00
+ATOM     77  O   MDALA   9      -2.039  -6.689   4.432  1.00  0.00
+ATOM     78  N   MEPHA  10      -4.212  -6.451   3.941  1.00  0.00
+ATOM     79  CN  MEPHA  10      -5.547  -6.854   4.404  1.00  0.00
+ATOM     80  CA  MEPHA  10      -4.057  -6.181   2.504  1.00  0.00
+ATOM     81  CB  MEPHA  10      -4.384  -7.372   1.601  1.00  0.00
+ATOM     82  CG  MEPHA  10      -3.279  -8.426   1.696  1.00  0.00
+ATOM     83  CD1 MEPHA  10      -3.437  -9.383   2.691  1.00  0.00
+ATOM     84  HD1 MEPHA  10      -4.157  -9.215   3.491  1.00  0.00
+ATOM     85  CD2 MEPHA  10      -2.336  -8.478   0.676  1.00  0.00
+ATOM     86  HD2 MEPHA  10      -2.455  -7.947  -0.268  1.00  0.00
+ATOM     87  CE1 MEPHA  10      -2.562 -10.463   2.645  1.00  0.00
+ATOM     88  HE1 MEPHA  10      -2.728 -11.341   3.269  1.00  0.00
+ATOM     89  CE2 MEPHA  10      -1.435  -9.537   0.677  1.00  0.00
+ATOM     90  HE2 MEPHA  10      -0.563  -9.390   0.041  1.00  0.00
+ATOM     91  CZ  MEPHA  10      -1.587 -10.512   1.656  1.00  0.00
+ATOM     92  HZ  MEPHA  10      -0.919 -11.374   1.657  1.00  0.00
+ATOM     93  C   MEPHA  10      -4.585  -4.813   2.066  1.00  0.00
+ATOM     94  O   MEPHA  10      -5.013  -4.642   0.925  1.00  0.00
+TER
+CONECT    1    2
+CONECT    1    3
+CONECT    1   93
+CONECT    3    4
+CONECT    3    8
+CONECT    4    5
+CONECT    5    6
+CONECT    5    7
+CONECT    8    9
+CONECT    8   10
+CONECT   10   11
+CONECT   10   12
+CONECT   12   13
+CONECT   12   14
+CONECT   14   15
+CONECT   14   16
+CONECT   16   17
+CONECT   16   18
+CONECT   18   19
+CONECT   18   23
+CONECT   19   20
+CONECT   20   21
+CONECT   20   22
+CONECT   23   24
+CONECT   23   25
+CONECT   25   26
+CONECT   25   27
+CONECT   27   28
+CONECT   27   29
+CONECT   29   30
+CONECT   29   31
+CONECT   31   32
+CONECT   31   33
+CONECT   33   34
+CONECT   33   46
+CONECT   34   35
+CONECT   35   36
+CONECT   35   38
+CONECT   36   37
+CONECT   36   40
+CONECT   38   39
+CONECT   38   42
+CONECT   40   41
+CONECT   40   44
+CONECT   42   43
+CONECT   42   44
+CONECT   44   45
+CONECT   46   47
+CONECT   46   48
+CONECT   48   49
+CONECT   48   50
+CONECT   50   51
+CONECT   50   55
+CONECT   51   52
+CONECT   52   53
+CONECT   52   54
+CONECT   55   56
+CONECT   55   57
+CONECT   57   58
+CONECT   57   59
+CONECT   59   60
+CONECT   59   61
+CONECT   61   62
+CONECT   61   63
+CONECT   63   64
+CONECT   63   65
+CONECT   65   66
+CONECT   65   70
+CONECT   66   67
+CONECT   67   68
+CONECT   67   69
+CONECT   70   71
+CONECT   70   72
+CONECT   72   73
+CONECT   72   74
+CONECT   74   75
+CONECT   74   76
+CONECT   76   77
+CONECT   76   78
+CONECT   78   79
+CONECT   78   80
+CONECT   80   81
+CONECT   80   93
+CONECT   81   82
+CONECT   82   83
+CONECT   82   85
+CONECT   83   84
+CONECT   83   87
+CONECT   85   86
+CONECT   85   89
+CONECT   87   88
+CONECT   87   91
+CONECT   89   90
+CONECT   89   91
+CONECT   91   92
+CONECT   93   94
+ENDMDL
